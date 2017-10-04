@@ -4,7 +4,7 @@ function Color(red, green, blue){
     this.blue = blue;
     this.toString = function(){
         return "[" + this.red + "," + this.green + "," + this.blue + "]";
-    }
+    };
 }
 
 function generateColor (){
