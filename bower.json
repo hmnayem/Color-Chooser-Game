@@ -1,0 +1,17 @@
+{
+  "name": "color-chooser-game",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "HM Nayem <hm.nayem.95@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hmnayem/Color-Chooser-Game",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

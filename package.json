@@ -1,0 +1,19 @@
+{
+  "name": "color-chooser-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmnayem/Color-Chooser-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmnayem/Color-Chooser-Game/issues"
+  },
+  "homepage": "https://github.com/hmnayem/Color-Chooser-Game#readme"
+}
